@@ -1,0 +1,31 @@
+/* Общие стили для всего сата*/
+body{
+	font-family: Arial, sans-serif;/* Шрифт для всего сайта */
+	background-color: #f0f0f0; /* Цвет фона */
+    color: #333; /* Основной цвет текста */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #007bff; /* Цвет заголовка */
+    color: #fff; /* Цвет текста в заголовке */
+    text-align: center;
+    padding: 20px;
+}
+
+/* Стили для секций */
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff; /* Цвет фона секций */
+    border: 1px solid #ccc;
+}
+
+/* Стили для подвала */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #007bff; /* Цвет фона подвала */
+    color: #fff; /* Цвет текста в подвале */
+}
